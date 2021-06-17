@@ -1,0 +1,4 @@
+Abbr,Date,Location,Common_Name,Latitude,Longitude,Magnitude,Depth(km),DurationIntensity_seconds
+1906_SF,"Apr. 18, 1906",CA_San Francisco_SantaRosa_SanJose,1906_Quake,37.75,-122.55,7.9,11.7,60
+1989_LP,"Oct. 17, 1989",CA_LomaPrieta_SantaCruz_SanFrancisco_Oakland_Berkeley_SiliconValley,89_Bay_Bridge_Quake,37.04,-121.877,6.9,17.2,15
+1994_NR,"Jan. 17, 1994",CA_Northridge_LosAngeles_SanFernandoValley_Ventura_Orange,94_Northridge,34.207,-118.535,6.7,18.2,20

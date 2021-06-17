@@ -1,0 +1,4 @@
+Abbr,Date,Location,Common_Name,Latitude,Longitude,Magnitude,TotalBuildLost,TotalBuildingsDamaged
+1906_SF,"Apr. 18, 1906",CA_San Francisco_SantaRosa_SanJose,1906_Quake,37.75,-122.55,7.9,"28,000","30,000"
+1989_LP,"Oct. 17, 1989",CA_LomaPrieta_SantaCruz_SanFrancisco_Oakland_Berkeley_SiliconValley,89 Bay_Bridge_Quake,37.04,-121.877,6.9,"20,000","50,000"
+1994_NR,"Jan. 17, 1994",CA_Northridge_LosAngeles_SanFernandoValley_Ventura_Orange,94 Northridge,34.207,-118.535,6.7,"70,000","388,000"

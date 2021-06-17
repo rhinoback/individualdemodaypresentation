@@ -1,0 +1,11 @@
+﻿common_name,location,abbr,date,latitude,longitude,magnitude,total_losses_millions,insured_losses_millions,fatalities
+94_Northridge_Earthquake,CA_Northridge_LosAngeles_SanFernandoValley_Ventura_Orange,1994_CA,1/17/94,34.207,-118.535,6.7,75000,27000,60
+1906_SF_Earthquake_&_Fire,CA_SanFrancisco_SantaRosa_SanJose,1906_CA,4/18/06,37.75,-122.55,7.9,16000,4759,3000
+89_Bay_Bridge_Earthquake,CA_Loma Prieta_SantaCruz_SanFrancisco_Oakland_Berkeley_SiliconValley,1989_CA,10/18/89,37.04,-121.877,6.9,22000,1980,63
+2001_Nisqually_Earthquake,"Washington_Olympia,_Seattle_Tacoma_Oregon",2001_WA,2/28/01,47.15,-122.73,6.8,3000,442,1
+87_Whittier_Narrows_Earthquake,CA_LosAngelesCounty_Whittier,1987_LA,8/1/87,34.061,-118.078,5.9,880,169,8
+2014_South_Napa_Earthquake,CA_Napa_Vallejo_Solano_ Sonoma_AmericanCanyon,2014_CA,8/24/14,38.217,-122.311,6.9,725,163,1
+2018_Anchorage_Earthquake,"Alaska_Anchorage_Wasilla,_Palmer_Tok_Valdez",2018_AK,10/30/18,61.049,-147.474,7,185,134,0
+2010_Baja_CA_Earthquake,CA_SanDiego_Calexico_ElCentro_Los Angeles_Imperial_Arizona_Phoenix_Yuma,2010_CA,4/4/10,32.128,-115.303,5.8,175,119,0
+2006_Kiholo_Bay_Earthquake,Hawaii_BigIsland_KailuaKona_Oahu_Honolulu,2006_HI,10/15/06,19.878,-155.935,6.7,275,64,0
+2011_Mineral_VA_Earthquake,Virginia_Mineral_Richmond_DC_NewYorkNew York_Maryland_Baltimore,2011_VA,8/23/11,37.936,-77.9333,5.8,175,57,0

@@ -1,0 +1,4 @@
+common_name,location,abbr,date,latitude,longitude,magnitude,areapopulation,injuries,homeless,fatalities,buildings_lost,buildings_damaged,total_losses_billions,insured_losses_billions
+1906_SF_Earthquake_&_Fire,CA_SanFrancisco_SantaRosa_SanJose,1906_SF,1906-04-18,37.75,-122.55,7.9,500000,225000,250000,3000,28000,35000,16,13
+89_Bay_Bridge_Earthquake,CA_Loma Prieta_SantaCruz_SanFrancisco_Oakland_Berkeley_SiliconValley,1989_LP,1989-10-18,37.04,-121.877,6.9,9500000,3757,12000,63,20000,50000,22,13
+94_Northridge_Earthquake,CA_Northridge_LosAngeles_SanFernandoValley_Ventura_Orange,1994_NR,1994-01-17,34.207,-118.535,6.7,15000000,9000,125000,60,70000,388000,75,27
