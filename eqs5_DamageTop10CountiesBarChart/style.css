@@ -1,0 +1,18 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 50;
+
+}
+
+
+.bar {
+  fill: rgb(0, 169, 220);
+  width: 35px;
+
+}
+
+.bar:hover {
+  fill: rgb(238, 11, 170);
+}

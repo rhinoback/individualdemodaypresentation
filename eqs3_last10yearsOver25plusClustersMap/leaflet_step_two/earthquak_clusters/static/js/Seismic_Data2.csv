@@ -1,0 +1,219 @@
+Time,Latitude,Longitude,Depth,Magnitude,MagType,Place,Type
+2021-06-17T01:11:14.010Z,39.3371658,-122.8031693,6.51,2.81,md,"16km ESE of Lake Pillsbury, CA",earthquake
+2021-06-16T18:17:06.530Z,36.4428333,-117.8911667,0.59,2.58,ml,"21km NNE of Olancha, CA",earthquake
+2021-06-16T17:51:59.500Z,36.0335,-117.7755,1.42,2.62,ml,"16km E of Coso Junction, CA",earthquake
+2021-06-16T17:44:55.070Z,36.442,-117.8888333,0.5,3.38,ml,"21km NNE of Olancha, CA",earthquake
+2021-06-16T07:48:39.260Z,36.8235,-121.5613333,5.34,2.61,md,"3km SW of San Juan Bautista, CA",earthquake
+2021-06-15T23:07:59.850Z,36.6741667,-121.2823333,6.87,2.98,ml,"13km SSE of Tres Pinos, CA",earthquake
+2021-06-15T20:32:57.793Z,38.1677,-118.0759,6.3,3.2,ml,"24 km S of Mina, Nevada",earthquake
+2021-06-15T19:14:38.421Z,38.1606,-118.0728,6.7,3,ml,"25 km S of Mina, Nevada",earthquake
+2021-06-15T12:41:01.610Z,37.3933333,-121.7818333,1.38,2.51,md,"5km NE of Alum Rock, CA",earthquake
+2021-06-14T12:28:12.030Z,33.3551667,-116.3121667,12,3.06,ml,"12km NNE of Borrego Springs, CA",earthquake
+2021-06-14T10:37:48.550Z,33.7961667,-116.9266667,9.47,2.75,ml,"3km ENE of San Jacinto, CA",earthquake
+2021-06-14T08:45:20.630Z,33.1443333,-115.618,2.73,2.5,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-14T03:16:58.630Z,38.8216667,-122.8446667,2.04,2.96,md,"9km WNW of The Geysers, CA",earthquake
+2021-06-14T03:16:24.290Z,38.8051667,-122.8278333,3.56,3.39,ml,"7km WNW of The Geysers, CA",earthquake
+2021-06-14T02:08:35.520Z,41.1496667,-123.365,39.31,2.5,md,"27km SSE of Somes Bar, CA",earthquake
+2021-06-13T18:20:12.150Z,33.1386667,-115.6413333,7.61,3.15,ml,"11km N of Westmorland, CA",earthquake
+2021-06-13T17:43:13.850Z,33.1361667,-115.6408333,7.9,3.01,ml,"11km N of Westmorland, CA",earthquake
+2021-06-13T06:54:47.290Z,38.8078333,-122.8291667,2.65,3.98,mw,"7km WNW of The Geysers, CA",earthquake
+2021-06-12T17:16:16.370Z,36.429,-120.9676667,12.34,2.53,md,"19km SE of Pinnacles, CA",earthquake
+2021-06-12T14:16:39.570Z,33.1875,-115.6416667,3.34,2.71,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T14:04:20.570Z,33.188,-115.6386667,3.05,2.62,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T08:25:07.890Z,33.1906667,-115.6348333,1.53,2.76,ml,"12km WSW of Niland, CA",earthquake
+2021-06-12T05:58:35.836Z,38.1749,-117.9457,1.9,2.5,ml,"27 km SSE of Mina, Nevada",earthquake
+2021-06-12T05:55:20.790Z,33.205,-115.6605,2.78,3.77,mw,"14km WSW of Niland, CA",earthquake
+2021-06-12T05:29:03.190Z,33.2018333,-115.6488333,3.64,2.72,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T05:29:03.160Z,33.1875,-115.6536636,4.65,2.81,ml,"14km WSW of Niland, CA",earthquake
+2021-06-12T05:01:11.750Z,33.1975,-115.6535,2.69,2.64,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:54:37.040Z,33.2166667,-115.6445,2.77,2.91,ml,"12km WSW of Niland, CA",earthquake
+2021-06-12T04:54:12.160Z,33.1966667,-115.646,2.47,2.82,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:52:06.230Z,33.2181667,-115.6803333,3.24,2.94,ml,"15km W of Niland, CA",earthquake
+2021-06-12T04:51:52.110Z,33.2083333,-115.6496667,3.23,2.63,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:51:41.020Z,33.2001667,-115.6478333,2.88,2.54,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:49:38.280Z,33.206,-115.656,2.62,4.06,mw,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:48:44.560Z,33.2003333,-115.6555,2.94,3.35,ml,"14km WSW of Niland, CA",earthquake
+2021-06-12T04:41:37.860Z,33.1956667,-115.6543333,3.12,3.61,ml,"14km WSW of Niland, CA",earthquake
+2021-06-12T04:41:34.290Z,33.2051667,-115.6555,3.17,3.06,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:41:20.120Z,33.2033333,-115.6575,2.99,3.02,ml,"14km WSW of Niland, CA",earthquake
+2021-06-12T04:40:23.030Z,33.2033333,-115.652,2.41,3.79,ml,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:39:46.510Z,33.2066667,-115.647,2.47,4.32,mw,"12km WSW of Niland, CA",earthquake
+2021-06-12T04:38:00.800Z,33.2125,-115.6445,1.48,2.78,ml,"12km WSW of Niland, CA",earthquake
+2021-06-12T04:36:44.870Z,33.203,-115.6433333,3.23,2.84,ml,"12km WSW of Niland, CA",earthquake
+2021-06-12T04:32:32.170Z,33.2135,-115.6365,2.69,2.62,ml,"11km WSW of Niland, CA",earthquake
+2021-06-12T04:31:32.690Z,33.2043333,-115.6341667,1.65,2.77,ml,"11km WSW of Niland, CA",earthquake
+2021-06-12T04:30:28.490Z,33.2068333,-115.6465,2.77,3.85,mw,"12km WSW of Niland, CA",earthquake
+2021-06-12T04:27:34.880Z,33.2081667,-115.6498333,2.97,3.94,mw,"13km WSW of Niland, CA",earthquake
+2021-06-12T04:22:23.650Z,33.2028333,-115.6383333,2.83,2.61,ml,"12km WSW of Niland, CA",earthquake
+2021-06-11T10:45:53.300Z,36.9255,-121.6631667,7.04,3.25,mw,"4km NNW of Aromas, CA",earthquake
+2021-06-11T08:57:25.563Z,38.1861,-117.7552,9.7,2.8,ml,"38 km SE of Mina, Nevada",earthquake
+2021-06-10T17:10:19.990Z,33.2246667,-116.0925,8.87,3.03,ml,"10km NNE of Ocotillo Wells, CA",earthquake
+2021-06-10T01:38:19.100Z,36.5373333,-121.1218333,4,2.54,md,"2km ENE of Pinnacles, CA",earthquake
+2021-06-09T13:51:36.370Z,35.873,-117.137,5.32,2.67,ml,"25km ENE of Trona, CA",earthquake
+2021-06-09T13:49:44.790Z,40.4403333,-124.2671667,28.42,2.52,md,"13km N of Petrolia, CA",earthquake
+2021-06-08T12:37:10.360Z,33.4621667,-116.8915,12.7,2.61,ml,"3km NW of Aguanga, CA",earthquake
+2021-06-08T01:44:17.232Z,40.7228,-115.7764,16.7,3.3,ml,"12 km S of Elko, Nevada",earthquake
+2021-06-07T22:22:02.870Z,37.4306667,-118.5005,5.14,2.73,md,"9km NNW of West Bishop, CA",earthquake
+2021-06-07T21:46:43.980Z,33.1673333,-115.6413333,4.67,2.69,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-07T21:24:52.050Z,33.1583333,-115.6401667,5.46,3.61,mw,"12km WNW of Calipatria, CA",earthquake
+2021-06-07T21:19:11.490Z,33.1566667,-115.6398333,5.88,3.35,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-07T21:08:28.590Z,33.1666667,-115.64,5.34,4.08,mw,"13km WNW of Calipatria, CA",earthquake
+2021-06-07T18:00:58.220Z,37.4288333,-118.4978333,6.22,2.57,ml,"8km NNW of West Bishop, CA",earthquake
+2021-06-07T16:16:01.350Z,33.172,-115.6383333,3.09,2.67,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-07T16:07:29.030Z,37.4301667,-118.5013333,5.61,3.35,ml,"9km ENE of Round Valley, CA",earthquake
+2021-06-07T14:45:22.420Z,33.1843333,-115.6373333,4.93,3.52,mw,"13km WSW of Niland, CA",earthquake
+2021-06-07T14:45:21.020Z,33.1916667,-115.6401667,4.02,2.78,ml,"12km WSW of Niland, CA",earthquake
+2021-06-07T05:44:35.620Z,33.1436667,-115.6266667,7.51,3.56,mw,"11km W of Calipatria, CA",earthquake
+2021-06-07T02:21:29.870Z,37.4306667,-118.4983333,5.81,3.19,ml,"9km NNW of West Bishop, CA",earthquake
+2021-06-06T22:22:19.050Z,33.1598333,-115.6415,3.44,2.71,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-06T20:17:40.440Z,33.1493333,-115.5946667,3.19,2.65,ml,"8km WNW of Calipatria, CA",earthquake
+2021-06-06T15:55:33.420Z,33.175,-115.637,3.99,2.51,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-06T15:02:08.860Z,33.1433333,-115.6188333,7.44,2.68,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-06T14:51:02.530Z,33.1076667,-115.6241667,6.79,2.57,ml,"8km N of Westmorland, CA",earthquake
+2021-06-06T11:05:03.610Z,33.183,-115.6356667,3.2,2.55,ml,"13km WSW of Niland, CA",earthquake
+2021-06-06T11:03:20.960Z,33.1865,-115.6363333,5.61,3.06,ml,"12km WSW of Niland, CA",earthquake
+2021-06-06T11:03:14.790Z,33.1858333,-115.641,4.83,2.85,ml,"13km WSW of Niland, CA",earthquake
+2021-06-06T10:56:06.570Z,33.1555,-115.6418333,5.82,2.76,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-06T08:08:02.480Z,33.1786667,-115.6326667,2.99,2.8,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-06T08:05:36.600Z,33.1855,-115.6395,9.8,3.81,mw,"13km WSW of Niland, CA",earthquake
+2021-06-06T06:33:17.480Z,33.153,-115.618,6.37,2.59,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-06T06:26:56.520Z,33.1695,-115.6486667,6.61,2.51,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-06T06:05:09.560Z,33.1586667,-115.6393333,7.2,2.51,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-06T05:02:27.180Z,33.1901667,-115.6358333,3.88,2.6,ml,"12km WSW of Niland, CA",earthquake
+2021-06-06T05:01:30.600Z,33.1645,-115.6446667,5.36,3.19,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-06T04:47:32.820Z,33.139,-115.6333333,6.85,2.6,ml,"11km W of Calipatria, CA",earthquake
+2021-06-06T03:08:23.210Z,33.1506667,-115.6195,9.28,3.61,mw,"10km WNW of Calipatria, CA",earthquake
+2021-06-06T02:58:54.060Z,33.1841667,-115.6383333,5.99,2.53,ml,"13km WSW of Niland, CA",earthquake
+2021-06-06T00:15:10.500Z,33.1608333,-115.639,4.76,2.57,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-05T23:36:39.810Z,33.1548333,-115.6448333,4.77,2.59,ml,"13km WNW of Calipatria, CA",earthquake
+2021-06-05T22:37:58.240Z,32.7586667,-115.5106667,16.7,2.62,ml,"4km NNE of Heber, CA",earthquake
+2021-06-05T22:25:11.940Z,35.981,-117.3111667,5.09,2.54,ml,"25km NNE of Trona, CA",earthquake
+2021-06-05T22:10:19.990Z,33.1551667,-115.6015,2.46,2.57,ml,"9km WNW of Calipatria, CA",earthquake
+2021-06-05T22:09:59.760Z,33.1396667,-115.6166667,3.65,2.51,ml,"10km W of Calipatria, CA",earthquake
+2021-06-05T21:49:39.770Z,33.1433333,-115.6216667,3.61,3.27,ml,"10km W of Calipatria, CA",earthquake
+2021-06-05T21:30:13.570Z,33.145,-115.6431667,6.09,2.65,ml,"12km N of Westmorland, CA",earthquake
+2021-06-05T19:46:55.580Z,33.1413333,-115.6245,6.58,2.79,ml,"10km W of Calipatria, CA",earthquake
+2021-06-05T19:41:04.450Z,33.136,-115.646,3.7,2.95,ml,"11km NNW of Westmorland, CA",earthquake
+2021-06-05T19:14:14.580Z,33.1586667,-115.6213333,5.48,2.91,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T19:07:07.450Z,33.1445,-115.6011667,1.16,2.56,ml,"8km WNW of Calipatria, CA",earthquake
+2021-06-05T19:06:29.910Z,33.1571667,-115.6195,5.11,2.54,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T19:05:31.380Z,33.1615,-115.6215,6.36,3.34,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T18:49:54.540Z,33.1456667,-115.6306667,7.94,2.92,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T18:48:20.730Z,33.1636667,-115.6121667,3.44,2.79,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:47:48.730Z,33.1431667,-115.6136667,3.35,2.72,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:33:38.000Z,33.1355,-115.6393333,3.46,2.5,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T18:24:13.470Z,33.1505,-115.6048333,3.17,2.95,ml,"9km WNW of Calipatria, CA",earthquake
+2021-06-05T18:24:06.720Z,33.156,-115.6118333,4.33,2.74,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:21:48.750Z,33.1513333,-115.6186667,7.06,4.09,mw,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:21:08.120Z,33.1591667,-115.6401667,5.74,2.71,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-05T18:20:14.620Z,33.1483333,-115.6181667,4.67,2.84,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:17:37.900Z,33.1381667,-115.6388333,4.76,3.09,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T18:16:51.370Z,33.1353333,-115.6351667,6.97,3.25,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T18:16:14.540Z,33.1523333,-115.6201667,5.12,2.9,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:13:49.500Z,33.1431667,-115.6258333,3.06,2.69,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T18:13:21.210Z,33.1461667,-115.6135,6.45,2.59,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:13:16.830Z,33.1456667,-115.6338333,6.55,2.53,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T18:12:53.910Z,33.1396667,-115.6263333,7.42,2.5,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T18:11:39.930Z,33.1396667,-115.6271667,7.31,2.83,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T18:08:10.750Z,33.1475,-115.6236667,7.28,2.53,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:07:47.570Z,33.1425,-115.6326667,5.53,2.5,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T18:07:20.960Z,33.1423333,-115.6213333,6.86,2.61,ml,"10km W of Calipatria, CA",earthquake
+2021-06-05T18:03:40.050Z,33.15,-115.6138333,5.32,3.51,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T18:03:05.990Z,33.1415,-115.6315,4.83,2.9,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T18:02:36.200Z,33.1493333,-115.61,3.87,2.58,ml,"9km WNW of Calipatria, CA",earthquake
+2021-06-05T18:01:04.460Z,33.1498333,-115.6261667,6.81,3.28,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T18:01:01.460Z,33.1468333,-115.6303333,5.76,2.85,ml,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T18:00:51.540Z,33.1381667,-115.6381667,6.62,2.79,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T18:00:49.190Z,33.1553333,-115.6656667,2.92,2.87,ml,"14km NNW of Westmorland, CA",earthquake
+2021-06-05T17:59:06.170Z,33.1563333,-115.6333333,6.49,3.29,ml,"12km WNW of Calipatria, CA",earthquake
+2021-06-05T17:58:42.200Z,33.1366667,-115.6323333,7.57,3.4,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:57:21.900Z,33.145,-115.6155,3.69,4.29,ml,"10km WNW of Calipatria, CA",earthquake
+2021-06-05T17:55:58.820Z,33.14,-115.6348333,5.78,5.25,mw,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:55:39.620Z,33.136,-115.6316667,5.49,2.9,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:53:59.120Z,33.1383333,-115.633,5.66,2.58,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:53:03.380Z,33.1418333,-115.6295,5.69,2.84,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:52:32.550Z,37.5361667,-118.8288333,3.95,2.55,md,"13km WSW of Toms Place, CA",earthquake
+2021-06-05T17:52:29.280Z,33.1386667,-115.6288333,5.82,2.82,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:51:09.970Z,33.1425,-115.6318333,3.14,2.97,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:50:50.980Z,33.142,-115.639,5.91,3.88,mw,"12km N of Westmorland, CA",earthquake
+2021-06-05T17:50:37.540Z,33.1395,-115.6271667,5.21,2.68,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:49:31.650Z,33.1271667,-115.6316667,6.22,2.57,ml,"10km N of Westmorland, CA",earthquake
+2021-06-05T17:49:16.850Z,33.1371667,-115.6363333,5.97,2.59,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:48:58.990Z,33.1395,-115.6378333,7.29,3.25,ml,"12km N of Westmorland, CA",earthquake
+2021-06-05T17:47:53.750Z,33.1481667,-115.6305,4.03,3.89,mw,"11km WNW of Calipatria, CA",earthquake
+2021-06-05T17:47:50.730Z,33.1375,-115.6351667,4.46,3,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:47:19.810Z,33.1448333,-115.6338333,4.64,3.12,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:46:39.500Z,33.134,-115.641,4.63,3.79,mw,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:46:26.060Z,33.1415,-115.6343333,5.87,3.56,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T17:46:21.000Z,33.14,-115.6371667,6,3.25,ml,"12km N of Westmorland, CA",earthquake
+2021-06-05T17:45:16.380Z,33.1375,-115.64,4.59,4.08,mw,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:42:10.930Z,33.1336667,-115.6453333,3.84,3.21,ml,"11km NNW of Westmorland, CA",earthquake
+2021-06-05T17:40:51.960Z,33.1301667,-115.6408333,3.05,3.55,mw,"10km N of Westmorland, CA",earthquake
+2021-06-05T17:39:39.490Z,33.1391667,-115.6368333,3.46,2.93,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:39:37.560Z,33.1363333,-115.6398333,3.52,2.66,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:34:09.110Z,33.1363333,-115.6395,5.95,2.8,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:33:40.110Z,33.136,-115.6445,6.3,2.58,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T17:25:51.480Z,33.1325,-115.6316667,3.23,2.51,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T15:08:21.940Z,33.1416667,-115.6355,5.77,2.94,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T12:21:57.270Z,33.1315,-115.6355,2.16,2.67,ml,"11km N of Westmorland, CA",earthquake
+2021-06-05T12:18:58.650Z,33.1428333,-115.634,4.01,2.67,ml,"11km W of Calipatria, CA",earthquake
+2021-06-05T12:18:37.840Z,33.131,-115.6388333,3.37,2.58,ml,"10km N of Westmorland, CA",earthquake
+2021-06-05T10:16:19.378Z,36.7281,-115.7788,16,2.5,ml,"20 km NNW of Indian Springs, Nevada",earthquake
+2021-06-03T19:34:02.920Z,40.9776667,-123.7985,23.24,2.76,md,"15km WNW of Willow Creek, CA",earthquake
+2021-06-03T13:32:46.700Z,38.1607,-117.8913,9.5,2.7,ml,"31 km SE of Mina, Nevada",earthquake
+2021-06-03T12:15:32.800Z,37.3721667,-121.726,7.07,3.59,mw,"9km E of Alum Rock, CA",earthquake
+2021-06-03T04:34:42.450Z,36.5501667,-121.1141667,9.14,3.62,mw,"3km NE of Pinnacles, CA",earthquake
+2021-06-02T17:56:10.880Z,37.9013333,-118.5528333,7.12,2.84,ml,"39km NNE of Toms Place, CA",earthquake
+2021-06-02T12:47:51.007Z,36.7368,-115.7258,11.5,2.5,ml,"19 km NNW of Indian Springs, Nevada",earthquake
+2021-06-01T21:29:55.500Z,33.467,-116.8883333,13.64,2.74,ml,"4km NW of Aguanga, CA",earthquake
+2021-06-01T21:29:46.490Z,33.4596667,-116.8916667,12.83,3.16,ml,"3km NW of Aguanga, CA",earthquake
+2021-06-01T15:27:28.330Z,40.4025,-124.695,20.41,2.79,md,"36km WNW of Petrolia, CA",earthquake
+2021-06-01T12:26:47.914Z,38.3605,-118.9229,9.7,3.1,ml,"29 km ENE of Bridgeport, California",earthquake
+2021-05-31T14:03:38.900Z,33.937,-118.6676667,13.5,2.89,ml,"11km S of Malibu Beach, CA",earthquake
+2021-05-31T14:03:38.753Z,33.954,-118.6835,10,2.6,ml,"10 km SSW of Las Flores, California",earthquake
+2021-05-31T10:57:41.520Z,37.4941667,-118.3773333,3.58,2.85,md,"12km NNE of Dixon Lane-Meadow Creek, CA",earthquake
+2021-05-31T09:06:14.350Z,37.5226667,-118.8263333,4.9,3.44,ml,"14km WSW of Toms Place, CA",earthquake
+2021-05-31T07:41:55.460Z,33.8333333,-117.8541667,5.35,2.68,ml,"3km E of Anaheim, CA",earthquake
+2021-05-29T20:11:35.390Z,38.6525,-119.775,1.71,2.91,md,"4km SSE of Markleeville, CA",earthquake
+2021-05-29T16:34:31.260Z,40.3056667,-124.5456667,20.7,2.52,md,"22km W of Petrolia, CA",earthquake
+2021-05-28T17:05:34.460Z,39.1206667,-120.0301667,6.52,2.68,md,"10km SE of Dollar Point, CA",earthquake
+2021-05-28T16:22:58.320Z,39.1255,-120.0296667,6.29,2.74,md,"9km SE of Dollar Point, CA",earthquake
+2021-05-28T16:04:54.470Z,39.1245,-120.0338333,5.41,3.11,ml,"9km SE of Dollar Point, CA",earthquake
+2021-05-28T15:46:36.720Z,39.1265,-120.0346667,6.91,2.61,md,"9km SE of Dollar Point, CA",earthquake
+2021-05-28T15:25:21.840Z,39.1221667,-120.0286667,7.02,4.15,mw,"10km SE of Dollar Point, CA",earthquake
+2021-05-28T14:52:18.440Z,36.4718333,-117.5105,-1.25,2.8,ml,"36km WSW of Stovepipe Wells, CA",earthquake
+2021-05-28T12:48:51.890Z,36.668,-121.2916667,4.26,2.97,md,"14km S of Tres Pinos, CA",earthquake
+2021-05-28T11:59:10.650Z,39.1221667,-120.029,5.8,2.9,ml,"10km SE of Dollar Point, CA",earthquake
+2021-05-28T09:00:13.400Z,33.1466667,-115.6156667,6.58,2.58,ml,"10km WNW of Calipatria, CA",earthquake
+2021-05-28T03:39:08.350Z,37.9066667,-118.5533333,6.45,2.74,md,"40km NNE of Toms Place, CA",earthquake
+2021-05-28T00:27:06.820Z,39.8693333,-120.4778333,3.01,2.62,md,"0km W of Lake Davis, CA",earthquake
+2021-05-28T00:07:37.170Z,33.8305,-117.8543333,5.44,2.63,ml,"3km E of Anaheim, CA",earthquake
+2021-05-27T15:40:37.290Z,37.589,-118.9265,4.6,2.66,ml,"7km SE of Mammoth Lakes, CA",earthquake
+2021-05-27T15:18:26.370Z,35.6318333,-117.4118333,6.5,2.98,ml,"15km SSW of Trona, CA",earthquake
+2021-05-27T14:19:00.120Z,35.3096667,-119.2053333,24.5,3.11,ml,"10km SSW of Rosedale, CA",earthquake
+2021-05-26T21:12:12.490Z,34.3426667,-119.6486667,11.45,3.31,ml,"10km SSE of Santa Barbara, CA",earthquake
+2021-05-26T17:54:02.220Z,38.8456667,-122.7601667,1.3,2.78,md,"4km NW of Cobb, CA",earthquake
+2021-05-26T08:31:13.401Z,38.171,-118.0668,6.5,2.7,ml,"24 km S of Mina, Nevada",earthquake
+2021-05-26T04:14:57.080Z,39.2321667,-123.1816667,4.57,2.9,ml,"4km SSE of Redwood Valley, CA",earthquake
+2021-05-25T22:42:20.880Z,36.4658333,-117.5125,3.45,2.56,ml,"36km WSW of Stovepipe Wells, CA",earthquake
+2021-05-25T22:06:00.110Z,36.4678333,-117.506,3.45,2.62,ml,"35km WSW of Stovepipe Wells, CA",earthquake
+2021-05-24T22:31:50.680Z,38.1815,-117.7859,11,2.9,ml,"36 km SE of Mina, Nevada",earthquake
+2021-05-24T19:26:57.330Z,37.9123333,-118.5613333,5.72,2.87,md,"40km NNE of Toms Place, CA",earthquake
+2021-05-24T04:55:54.900Z,37.9058333,-118.5543333,6.35,2.55,md,"40km NNE of Toms Place, CA",earthquake
+2021-05-24T01:18:28.110Z,37.9015,-118.5536667,6.92,2.83,ml,"39km NNE of Toms Place, CA",earthquake
+2021-05-23T17:20:40.030Z,39.8735,-120.4731667,3.88,2.77,md,"0km N of Lake Davis, CA",earthquake
+2021-05-23T09:18:24.990Z,39.8675,-120.468,4.45,2.77,md,"0km ESE of Lake Davis, CA",earthquake
+2021-05-23T09:18:07.990Z,39.8718333,-120.4733333,3.92,2.95,ml,"0km NNW of Lake Davis, CA",earthquake
+2021-05-23T02:39:12.780Z,39.3453333,-123.2448333,5.24,2.64,md,"10km NNW of Redwood Valley, CA",earthquake
+2021-05-22T23:14:13.150Z,40.3988333,-124.6426667,21.78,2.86,md,"31km WNW of Petrolia, CA",earthquake
+2021-05-22T19:35:42.880Z,40.881,-123.253,23.27,2.52,md,"31km WNW of Weaverville, CA",earthquake
+2021-05-22T16:14:23.060Z,35.9926667,-117.6843333,2.11,2.55,ml,"21km ENE of Little Lake, CA",earthquake
+2021-05-21T10:25:46.410Z,35.9826667,-117.3225,2.82,2.78,ml,"25km NNE of Trona, CA",earthquake
+2021-05-20T03:43:52.192Z,38.1634,-117.8509,8.9,4,ml,"33 km SE of Mina, Nevada",earthquake
+2021-05-20T01:37:22.690Z,35.9748333,-117.3245,3.04,3.59,mw,"24km NNE of Trona, CA",earthquake
+2021-05-19T23:56:13.461Z,38.8577,-117.9516,11.1,2.8,ml,"2 km WSW of Gabbs, Nevada",earthquake
+2021-05-18T22:33:34.962Z,38.1565,-117.8914,8.1,2.5,ml,"32 km SE of Mina, Nevada",earthquake
+2021-05-18T14:44:25.290Z,36.1631667,-120.2116667,8.98,3.63,mw,"11km WSW of Huron, CA",earthquake
+2021-05-18T12:51:47.370Z,36.0728333,-117.5206667,2.67,2.56,ml,"36km NNW of Searles Valley, CA",earthquake
+2021-05-18T09:31:18.770Z,34.9543333,-116.729,7.19,2.6,ml,"28km ENE of Barstow, CA",earthquake
+2021-05-18T03:15:46.390Z,37.5175,-118.7735,6.04,2.57,md,"10km WSW of Toms Place, CA",earthquake

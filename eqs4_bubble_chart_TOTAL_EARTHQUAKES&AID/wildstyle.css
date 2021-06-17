@@ -1,0 +1,65 @@
+#quakers2shakersbubbles {
+  border-radius: 20px;
+}
+
+.chart::before {
+  position: absolute;
+  font-size: 100px;
+  top: 40px;
+  left: 10px;
+  z-index: -1;
+  display:flex;
+  width: 1250px;
+  height: 600px;
+  content: " ";
+  background-image: url("https://images.pexels.com/photos/4386437/pexels-photo-4386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+  background-repeat: no-repeat;
+  background-position: 50% 10;
+  background-size: fill;
+  opacity: 0.2;
+}
+
+.tooltip {
+  position: absolute;
+  width: 135px;
+  height: 90px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 16px sans-serif;
+  color: white;
+  text-align: center;
+  background: #0441e7;
+  border: 0;
+  border-radius: 10px;
+}
+
+.axis-text {
+  font-family: sans-serif;
+  font-style: Raleway;
+  font-size: 35px;
+  font-weight: bold;
+  fill: #098cf7;
+  text-anchor: middle;
+}
+
+.active {
+  font-weight: bold;
+  font-size: 30px;
+  fill: #000;
+  fill: #08a4ff;
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+}
+
+.inactive {
+  font-weight: lighter;
+  font-size: 22px;
+  fill: #08b5cc;
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+}
+
+.inactive:hover {
+  fill: #e75480;
+  cursor: pointer;
+}

@@ -1,0 +1,133 @@
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+
+body {
+    background: #c6ddec;
+  }
+ 
+  h1 {
+    outline-color: thistle;
+    height: 40;
+    padding-top: 20px;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: white;
+    background-color: rgba(5, 147, 5, 0.516);
+  }
+
+  #blue-back{
+    font-size: 40px;
+    color: white;
+  }
+  .blue-back{
+    background-color: blue;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+  
+  /* Giving our navbar some padding and a background color */
+  .navbar {
+    padding: 10px;
+    background: #0367fc;
+  }
+  
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+  .navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: rgba(54, 154, 236, 0.911);
+    border-radius: 3px;
+  }
+  
+  /* Getting rid of the default link styles here */
+  .navbar li a {
+    color: rgb(245, 240, 235);
+    text-decoration: none;
+  }
+ /* Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;} 
+  /* Styling the header, giving it a height, a background color, 
+  .header {
+    height: 200px;
+    padding-top: 20px;
+    background: #f3f4f5;
+  }
+    and some top padding */
+
+  /* Centering our h1 tag inside our header, giving it a little padding, removing its margin */
+  .header h1 {
+    padding: 60px;
+    margin: 0;
+    color: #000;
+    text-align: center;
+  }
+  
+  /* Giving the .post element margin on 3 sides */
+  .post {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 10;
+  }
+
+  /* Giving our list some padding */
+  .ol {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px; 
+  }
+
+  img {
+    padding-top: 10px;
+    margin-bottom: 20px;
+  }
+  img {
+    box-shadow:10px 10px 5px black;
+  }
+  
