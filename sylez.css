@@ -1,0 +1,174 @@
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+
+body {
+    background: #030303;
+    font-color: #ede3e3;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  h1a {
+    outline-color: thistle;
+    height: 40;
+    padding-top: 20px;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-style: Arial;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: white;
+    background-color: rgba(131, 14, 24, 0.911);
+  } 
+  h1 {
+    outline-color: thistle;
+    height: 40;
+    padding-top: 20px;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-style: Arial;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: white;
+    background-color: rgba(131, 14, 24, 0.911);
+  }
+
+  h2 {
+    outline-color: rgba(151, 168, 185, 0.904);
+    height: 30;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-style: center;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: white;
+    background-position: center ;
+    background-color: rgba(5, 95, 35, 0.911);
+  }
+
+  #green-back{
+    font-size: 35px;
+    color: white;
+  }
+  .green-back{
+    background-color: rgba(6, 104, 71, 0.692);
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+  
+  /* Giving our navbar some padding and a background color */
+  .navbar {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    padding-bottom: 600px;
+    height: 500px;
+    background: #ffffff;
+    background-image: url(https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) 
+
+  }
+  /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+  .navbar li {
+    display: inline;
+    padding: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    cursor: pointer;
+    background: rgba(1, 107, 81, 0.911);
+    border-radius: 6px;
+  }
+  
+  /* Getting rid of the default link styles here */
+  .navbar li a {
+    color: rgb(245, 240, 235);
+    text-decoration: none;
+  }
+ /* Dropdown Button */
+.dropbtn {
+  background-color: #056b30;
+  color: white;
+  padding: 13px;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #037747bb;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(63, 168, 151, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: rgba(222, 234, 243, 0.89);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: rgb(3, 41, 51);}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #033b0f;} 
+  /* Styling the header, giving it a height, a background color, 
+  .header {
+    height: 200px;
+    padding-top: 20px;
+    background: #f3f4f5;
+  }
+    and some top padding */
+
+  /* Centering our h1 tag inside our header, giving it a little padding, removing its margin */
+  .header h1 {
+    padding: 60px;
+    margin: 0;
+    color: rgb(245, 239, 239);
+    text-style: none;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  /* Giving the .post element margin on 3 sides */
+  .post {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 16;
+    font-family: Arial;   
+    color: white;
+  }
+
+  /* Giving our list some padding */
+  .ol {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px; 
+  }
+
+  img {
+    padding-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+  }
+  img {
+    box-shadow:10px 10px 5px rgb(2, 75, 41);
+  }
+  
